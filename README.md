@@ -27,7 +27,7 @@ The Lab Webpage consists of multiple sections, including a banner, courses, ment
 
 1. **Clone the Repository:**
    ```bash
-   git clone <repository-url>
+   git clone <https://github.com/DevVora0308/Lab_Webpage.git>
    cd Lab_Webpage-main
 
 2. Open index.html: Launch the webpage by opening the index.html file in your preferred browser.
